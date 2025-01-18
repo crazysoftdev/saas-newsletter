@@ -17,7 +17,6 @@ BeeClone is a SaaS Email Newsletter Platform, a robust solution developed using 
 - [Features](#-features)
 - [Overview](#-overview)
 - [Development Phases](#-development-phases)
-- [Getting Started](#-getting-started)
 - [Connect with Me](#-connect-with-me)
 
 ## 🚀 Features
@@ -54,7 +53,7 @@ Here's a snapshot of the development lifecycle of our platform:
 
 For further inquiries or potential collaborations, feel free to reach out:
 
-- **Email**: [jeff.jiang13@gmail.com](mailto:jeff.jiang13@gmail.com)
-- **LinkedIn**: [Jeff Jiang](https://www.linkedin.com/in/jeffjiang13/)
+- **Email**: [soul.lee.pro@gmail.com](mailto:soul.lee.pro@gmail.com)
+- **LinkedIn**: [James Lee](https://www.linkedin.com/in/james-lee-in/)
 
 Feel free to connect with me for any queries or discussions related to this platform or other tech interests!
